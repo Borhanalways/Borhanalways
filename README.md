@@ -1,4 +1,4 @@
-### Hi there I'm Md. Borhan Uddin, 👋
+### Hi there, I'm Md. Borhan Uddin, 👋
 #### I am a Front End Developer.
 ![I am a Front End Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
